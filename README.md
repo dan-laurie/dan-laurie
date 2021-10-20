@@ -10,3 +10,8 @@
 - 🌱 I’m currently a student of SEI-58 at General Assembly
 - 📫 How to reach me: daniel.michael.laurie@gmail.com
 - ⚡ Start of my coding journey. Coming from a musical background, I hope to bring creativity to my projects!
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-laurie)](https://github.com/anuraghazra/github-readme-stats)
+
+
