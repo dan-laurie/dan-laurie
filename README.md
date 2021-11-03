@@ -7,7 +7,7 @@
 
 <p align="center">A British/Australian musician & producer, training to become a Software Engineer!</p>
 
-- 🌱 I’m currently a student of SEI-58 at General Assembly
+- 🌱 I’m currently a Junior Software Engineer looking for my first technical role!
 - 📫 How to reach me: daniel.michael.laurie@gmail.com
 - ⚡ Start of my coding journey. Coming from a musical background, I hope to bring creativity to my projects!
 
