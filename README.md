@@ -7,10 +7,8 @@
 
 <p align="center">A British/Australian musician & producer, training to become a Software Engineer!</p>
 
-- 🌱 I’m currently a Junior Software Engineer looking for my first technical role!
+- 🏁 I’m a Frontend Developer at PACETEQ GmbH
 - 📫 How to reach me: daniel.michael.laurie@gmail.com
-- ⚡ Start of my coding journey. Coming from a musical background, I hope to bring creativity to my projects!
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-laurie&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
