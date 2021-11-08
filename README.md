@@ -8,7 +8,7 @@
 <p align="center">A British/Australian musician & producer, training to become a Software Engineer!</p>
 
 - 🏁    I’m a Frontend Developer at PACETEQ GmbH
-- 📫    How to reach me: daniel.michael.laurie@gmail.com
+- 📫    How to reach me: danlaurie3@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-laurie&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
