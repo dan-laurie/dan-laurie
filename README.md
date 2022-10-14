@@ -7,7 +7,8 @@
 
 <p align="center">A British/Australian musician & producer, training to become a Software Engineer!</p>
 
-- 🏁    I’m a Frontend Developer at PACETEQ GmbH
+- 🏁    I’m a Software Engineer at PACETEQ GmbH
+- Currently studying: Rust, AWS
 - 📫    How to reach me: danlaurie3@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-laurie&show_icons=true&theme=radical)
