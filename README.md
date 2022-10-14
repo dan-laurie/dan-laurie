@@ -5,7 +5,7 @@
   <a href="https://www.instagram.com/dan.laurie/?hl=en">Instagram</a>
 </p>
 
-<p align="center">A British/Australian musician & producer, training to become a Software Engineer!</p>
+<p align="center">Software Engineer with a background in music performance and production</p>
 
 - 🏁    I’m a Software Engineer at PACETEQ GmbH
 - Currently studying: Rust, AWS
