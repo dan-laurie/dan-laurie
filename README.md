@@ -8,10 +8,7 @@
 <p align="center">Software Engineer with a background in music performance and production</p>
 
 - 🏁    I’m a Software Engineer at PACETEQ GmbH
-- Currently studying: Rust, AWS
-- 📫    How to reach me: danlaurie3@gmail.com
+- 📫    How to reach me: daniel.michael.laurie@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-laurie&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
 
 
